@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on model railways, sound fx for guitars, lighting fx for bands
 - 📫 How to reach me alex.steinberg@sky.com
 - 😄 Pronouns: Alex, old git.
-- ⚡ Fun fact: ex flight simulator hardware engineer.Now doing things with Astute class attack subs at Faslane that I can't tell you about🤫.
+
 
 <!---
 Alwist31/Alwist31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
